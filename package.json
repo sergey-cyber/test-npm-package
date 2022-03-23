@@ -16,8 +16,7 @@
     "url": "https://github.com/sergey-cyber/test-npm-package/issues"
   },
   "bin": {
-    "cyber": "./src/index.js",
-    "cyber-nodejs": "./src/index.js"
+    "cyber": "./src/index.js"
   },
   "homepage": "https://github.com/sergey-cyber/test-npm-package#readme",
   "dependencies": {
