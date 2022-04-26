@@ -1,3 +1,5 @@
-const {func} = require("./exporter")
+"use strict";
 
-console.log(func);
+const v = "Hi^ my BRO!!"
+
+console.log(v);

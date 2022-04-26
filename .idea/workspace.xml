@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c65e148-74dc-4427-ae63-209cce806c0d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/exporter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/exporter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/starter.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/starter.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +115,7 @@
       <workItem from="1648057587603" duration="3884000" />
       <workItem from="1648065388638" duration="471000" />
       <workItem from="1648066069740" duration="4613000" />
-      <workItem from="1650948869051" duration="3944000" />
+      <workItem from="1650948869051" duration="4125000" />
     </task>
     <servers />
   </component>
