@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
-exports.func = () => {
+const func = () => {
     console.log("Hello from function!!!")
 }
+
+module.exports.func = func;
