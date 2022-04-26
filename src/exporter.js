@@ -1,5 +1,2 @@
-const {func} = require("./func");
-const {getLastItem} = require("./index");
-
-module.exports.func = func;
-module.exports.getLastItem = getLastItem;
+exports.func = require("./func");
+exports.getLastItem = require("./index");
