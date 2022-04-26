@@ -1,3 +1,3 @@
-const func = require("./exporter")
+const {func} = require("./exporter")
 
 console.log(func);
