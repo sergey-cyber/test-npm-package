@@ -1,2 +1,4 @@
-exports.require("./func");
-exports.require("./index");
+const {func} = require("./func");
+const {getLastItem} = require("./index");
+
+module.exports = {func["func"], getLastItem["getLastItem"]};
