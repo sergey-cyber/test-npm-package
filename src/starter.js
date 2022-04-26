@@ -1,3 +1,3 @@
-#!/usr/bin/env node
+const func = require("./exporter")
 
-console.log("App has been started");
+console.log(func);
